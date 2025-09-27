@@ -24,5 +24,17 @@ Todo    Exercise: Sum of Positive Numbers
 
         System.err.println("You entered a negative number, exiting...");
         System.out.println("The total sum of positive numbers entered is: " + totalSum);
+
+        System.err.println("""
+                I'm teaching my people git/github.
+                So far, I've taught them how to:
+                1. Create a repository on github
+                2. Clone the repository to their local machine
+                3. Create a new branch
+                4. Make changes to the code
+                5. Add the changes or stage the changes for commit
+                6. Commit the changes
+                7. Push the changes to github
+                """);
     }
 }
